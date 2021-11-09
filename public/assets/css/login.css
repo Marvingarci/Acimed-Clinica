@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+    background-image:  url('https://www.10wallpaper.com/wallpaper/1366x768/1711/Office_Desk_Keyboard_Art_Cup_Photo_HD_Wallpaper_1366x768.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+.container{
+    height: auto;
+    width: auto;
+    align-content: center;
+    color: #fdfcfc;
+}
+.card-footer{
+    margin-bottom: 30px;
+    margin-top: auto;
+}
+
+.card{
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 70%;
+    background-color: rgba(0,0,0,0.5) !important;
+}
+
+.social_icon span{
+    font-size: 60px;
+    margin-left: 10px;
+    color: #FFC312;
+}
+
+.social_icon span:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.card-header{
+    color: white;
+}
+.social_icon{
+    position: absolute;
+    right: 20px;
+    top: -45px;
+}
+
+.input-group-prepend span{
+    width: 50px;
+    background-color:#CD212C;
+    color: black;
+    border:0 !important;
+}
+.remember{
+    color: white;
+}
+
+.remember input
+{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn{
+    color: black;
+    background-color:#CD212C;
+    width: auto;
+}
+
+.login_btn:hover{
+    color: black;
+    background-color: white;
+}
+
+.links{
+    color: white;
+}
+
+.links a{
+    margin-left: 4px;
+}
+brand_logo_container {
+    position: absolute;
+    height: auto;
+    width: 30%;
+    top: -75px;
+    background-color: rgba(221, 106, 106, 0.5) !important;
+    padding: 10px;
+    text-align: center;
+}
+img{
+    width: 40%;
+    margin-left: 30%;
+}
